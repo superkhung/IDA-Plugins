@@ -1,2 +1,2 @@
 # IDA-Plugins
-Some of IDA Plugins i've build for Mac OS
+Some of IDA Plugins i've built for Mac OS
